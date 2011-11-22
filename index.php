@@ -6,7 +6,7 @@
 		Yes, you!
 		<?php echo "Hello World!"; ?>
 		
-		YEAH, STUFF!!!
+		YEAH, STUFF!
 		
 		<em>Oh and ... good bye :/</em>
 		
